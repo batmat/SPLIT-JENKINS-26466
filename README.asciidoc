@@ -1,0 +1,7 @@
+= Scripts & so on for JENKINS-26466
+
+This repo will most probably be deleted once JENKINS-26466 is completed.
+
+Content:
+
+* script for filter-branching the jenkins source repository into a new one with only the node_monitors package
